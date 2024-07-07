@@ -52,25 +52,34 @@ Now hit review and create.
 
   
 When the VM is ready, launch Remote Desktop Protocol, and connect to your VM using its public IP address.
+
+
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/c633e822-41e1-464e-b79b-e7a4fcaa077e)
+
+
 Once there, browse to "whatismyipaddress.com"
 Take note of your SECOND location and ip address, in your text file. (VM without VPN)
   
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/ec115677-4b9d-4030-b98a-4b29c884db0d)
+
 <p>
 Now, visit https://account.protonvpn.com/downloads
 Sign in, and download the Windows VPN client
+
+
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/187956a6-5e2d-4be2-9211-081c3879eece)
+
+
 Install and launch the app.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/dfd26673-fbc0-4fc2-b71b-2f283ccd1a3d)
+
+
 <p>
 Select "quick connect."
 (the rdp connection might get interrupted for a second, but it should reconnect automatically).
