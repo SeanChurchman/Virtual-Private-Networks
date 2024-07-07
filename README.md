@@ -40,13 +40,17 @@ Open a new text file and note your FIRST current location and ip address. (This 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/12ad6050-7d9d-4a23-85c3-81eb5b2364eb)
+
 <p>
 Now we will create a Virtual machine in Azure and connect to it, using Remote desktop protocol.
 Opt for Windows 10, running 2 vcpus, with 16gb memory, and assign its "region" to a foreign country.
 Now hit review and create.
+
+
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/de15cd37-407e-4eab-9f06-4eaf826bcf42)
+
+  
 When the VM is ready, launch Remote Desktop Protocol, and connect to your VM using its public IP address.
 Once there, browse to "whatismyipaddress.com"
 Take note of your SECOND location and ip address, in your text file. (VM without VPN)
