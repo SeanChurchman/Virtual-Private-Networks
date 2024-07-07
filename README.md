@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [How To Configure a VPN](https://drive.google.com/file/d/1FFQRwzX2O0asLmqIX9zOtqh9rdsqmDYS/view)
 
 <h2>Environments and Technologies Used</h2>
 
