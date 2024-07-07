@@ -10,7 +10,7 @@ This tutorial outlines the configuration of a virtual private network.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machine)
 - Remote Desktop
 - ProtonVPN
 
