@@ -37,7 +37,8 @@ First, go to protonvpn.com, create an account, and sign up for a free VPN.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, browse to whatismyipaddress.com. Open a new text file and take note of your FIRST current location and ip address. (local PC)
+Next, browse to whatismyipaddress.com. 
+Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
 </p>
 <br />
 
@@ -45,6 +46,12 @@ Next, browse to whatismyipaddress.com. Open a new text file and take note of you
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we will create a Virtual machine in Azure and connect to it, using Remote desktop protocol.
+Opt for Windows 10, running 2 vcpus, with 16gb memory, and assign its "region" to a foreign country.
+Now hit review and create.
+When the VM is ready, launch Remote Desktop Protocol, and connect to your VM using its public IP address.
+Once there, browse to "whatismyipaddress.com"
+Take note of your SECOND location and ip address, in your text file. (VM without VPN)
+  
 </p>
 <br />
