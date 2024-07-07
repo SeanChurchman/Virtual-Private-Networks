@@ -1,7 +1,7 @@
 
 
 <h1>Virtual Private Networks</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the configuration of a virtual private network.<br />
 
 
 <h2>Video Demonstration</h2>
