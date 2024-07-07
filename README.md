@@ -55,3 +55,31 @@ Take note of your SECOND location and ip address, in your text file. (VM without
   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, browse to whatismyipaddress.com. 
+Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, browse to whatismyipaddress.com. 
+Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, browse to whatismyipaddress.com. 
+Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
+</p>
+<br />
+
