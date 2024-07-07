@@ -24,9 +24,8 @@ This tutorial outlines the configuration of a virtual private network.<br />
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/4ee2d170-b2f9-4f29-beeb-47fe141dc3f7)
+
 <p>
 First, go to protonvpn.com, create an account, and sign up for a free VPN.
 (Don't download anything yet)
