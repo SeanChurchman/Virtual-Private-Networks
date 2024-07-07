@@ -60,8 +60,9 @@ Take note of your SECOND location and ip address, in your text file. (VM without
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, browse to whatismyipaddress.com. 
-Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
+Now, visit https://account.protonvpn.com/downloads
+Sign in, and download the Windows VPN client
+Install and launch the app.
 </p>
 <br />
 
@@ -69,8 +70,10 @@ Open a new text file and take note of your FIRST current location and ip address
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, browse to whatismyipaddress.com. 
-Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
+Select "quick connect."
+(the rdp connection might get interrupted for a second, but it should reconnect automatically).
+We are now connected to a VPN server!
+
 </p>
 <br />
 
@@ -78,8 +81,16 @@ Open a new text file and take note of your FIRST current location and ip address
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, browse to whatismyipaddress.com. 
-Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
+So next, browse back to "whatismyipaddress.com" and refresh the page
+Observe that our ip address has changed again.
+Take note of your THIRD location and ip address, in the text file.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congratulations. We're done! 
+You can browse to any of your favorite websites and view the new localized results.
+And lastly, remember to clean up your azure environment, when you're done with the lab.
