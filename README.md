@@ -32,12 +32,11 @@ First, go to protonvpn.com, create an account, and sign up for a free VPN.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/d7ec29de-664d-4f97-9d08-e5ef472484d1)
+
 <p>
 Next, browse to whatismyipaddress.com. 
-Open a new text file and take note of your FIRST current location and ip address. (This is the local PC)
+Open a new text file and note your FIRST current location and ip address. (This is the local PC)
 </p>
 <br />
 
