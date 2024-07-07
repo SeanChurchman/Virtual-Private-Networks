@@ -83,14 +83,18 @@ Install and launch the app.
 <p>
 Select "quick connect."
 (the rdp connection might get interrupted for a second, but it should reconnect automatically).
+
+
+![Screenshot 2024-07-07 042332](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/65de20b5-cbcb-40fd-94fb-00814eaf0676)
+
+  
 We are now connected to a VPN server!
 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/1af8fbe0-3917-474c-a5b3-37092c8cd967)
+
 <p>
 So next, browse back to "whatismyipaddress.com" and refresh the page
 Observe that our ip address has changed again.
@@ -98,9 +102,8 @@ Take note of your THIRD location and ip address, in the text file.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/SeanChurchman/Virtual-Private-Networks/assets/165851799/f3beee22-5673-41c9-9806-1b9ba3daf55b)
+
 <p>
 Congratulations. We're done! 
 You can browse to any of your favorite websites and view the new localized results.
