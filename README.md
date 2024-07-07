@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+
 
 <h1>Virtual Private Networks</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
@@ -14,7 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- ProtonVPN
 
 <h2>Operating Systems Used </h2>
 
